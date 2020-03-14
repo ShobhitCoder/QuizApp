@@ -18,7 +18,7 @@ Quiz is an android based application, and enables the user to undertake a series
 	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
 </p>
 
-![](quizapp.gif)
+![Quiz App](gif/quizapp.gif)
 
 If you have any queries or suggestions you can mail me: fiitjeeshobhit@gmail.com
 
