@@ -10,13 +10,15 @@ Quiz is an android based application, and enables the user to undertake a series
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
 
-## Sreenshot
+## Screenshot
 
 <p id="img_cont">
 	<img src="/screenshot/pic1.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshot/pic2.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
 </p>
+
+![](quizapp.gif)
 
 If you have any queries or suggestions you can mail me: fiitjeeshobhit@gmail.com
 
