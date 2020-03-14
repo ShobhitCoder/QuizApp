@@ -1,0 +1,71 @@
+{
+  "questions": [
+    {
+      "question": "Which method can be defined only once in a program?"
+    },
+    {
+      "question": "Which of these is not a bitwise operator?"
+    },
+    {
+      "question": "Which keyword is used by method to refer to the object that invoked it?"
+    },
+    {
+      "question": "Which of these keywords is used to define interfaces in Java?"
+    },
+    {
+      "question": "Which of these access specifiers can be used for an interface?"
+    },
+    {
+      "question": "Which of the following is correct way of importing an entire package ‘pkg’?"
+    },
+    {
+      "question": "What is the return type of Constructors?"
+    }
+  ],
+  "answers": [
+    {
+      "answer": "main method"
+    },
+    {
+      "answer": "<="
+    },
+    {
+      "answer": "this"
+    },
+    {
+      "answer": "interface"
+    },
+    {
+      "answer": "public"
+    },
+    {
+      "answer": "import pkg.*"
+    },
+    {
+      "answer": "None of the mentioned"
+    }
+  ],
+  "options": [
+    {
+      "opt": "main method"
+    },
+    {
+      "opt": "<="
+    },
+    {
+      "opt": "this"
+    },
+    {
+      "opt": "interface"
+    },
+    {
+      "opt": "public"
+    },
+    {
+      "opt": "import pkg.*"
+    },
+    {
+      "opt": "None of the mentioned"
+    }
+  ]
+}
